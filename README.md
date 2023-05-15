@@ -22,9 +22,8 @@
 
 
 ## Features 
--  Note Creation
--  Note Storage
--  Note Access
+-  Note Creation, storage and access.
+-  Pagination
 -  Authentication 
 -  Google Oauth
 -  Responsive
@@ -75,11 +74,13 @@ npx nodemon app.js
 
  <div align = "center">
    <h2>Landing Page</h2>
-   
+   <img width="946" alt="Landing Page" src="https://github.com/Swati-Tanu/Write-Up/assets/112818778/cb46affd-eb01-4f75-8461-d4788fb4458e">
+
 
    <br>
    <h2>Dashboard Page</h2>
-   
+   <img width="941" alt="Dashboard" src="https://github.com/Swati-Tanu/Write-Up/assets/112818778/b624ec4c-47ae-4f08-b782-cc2f98ff388c">
+
  
 <div/>
   <br>
