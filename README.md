@@ -4,7 +4,7 @@
   <img src="public/img/logo.png" alt="html"  height="100"/>
   <br>
   <br>
-  <p>Welcome to Write Up, a note taking app that provides their user a sleek and user-friendly interface. Create new notes with just a few taps and enjoy the seamless experience and stay organized.</p>
+  <p>Welcome to Write Up, a note-taking app that provides their user with a sleek and user-friendly interface. Create new notes with just a few taps and enjoy the seamless experience and stay organized.</p>
 </div>
 <hr> 
 
