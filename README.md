@@ -90,7 +90,7 @@ npx nodemon app.js
 | :----: | 
    
 
-[Live](https://tasty-jade-fossa.cyclic.app/)
+[Live](https://write-up-b60cbe64583e.herokuapp.com/)
 
 
  
