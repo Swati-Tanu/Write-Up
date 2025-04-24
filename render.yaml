@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: note-app
+    name: write-up
     env: node
     buildCommand: npm install
     startCommand: npm start
