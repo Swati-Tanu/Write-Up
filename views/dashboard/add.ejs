@@ -1,5 +1,4 @@
 <div class="container-fluid container-fluid-custom pb-5 mb-5">
-
   <div class="row mb-4">
     <div class="col">
       <nav aria-label="breadcrumb">
@@ -14,20 +13,34 @@
     </div>
   </div>
 
-
   <form action="/dashboard/add" method="POST" class="position-relative">
-    <div class="form-group mb-4 position-absolute" style="left:1px; top:1px; right: 1px;">
-      <input type="text" class="form-control fw-bold border-0 fs-4" id="title" name="title" placeholder="Title" required>
+    <div
+      class="form-group mb-4 position-absolute"
+      style="left: 1px; top: 1px; right: 1px"
+    >
+      <input
+        type="text"
+        class="form-control fw-bold border-0 fs-4"
+        id="title"
+        name="title"
+        placeholder="Title"
+        required
+      />
     </div>
 
     <div class="form-group mb-4">
-      <textarea required class="form-control pt-5 fs-4" id="body" name="body" placeholder="Take a note..." rows="12"></textarea>
+      <textarea
+        required
+        class="form-control pt-5 fs-4"
+        id="body"
+        name="body"
+        placeholder="Take a note..."
+        rows="12"
+      ></textarea>
     </div>
 
     <div class="form-group">
-      <button type="submit" class="btn btn-primary btn-lg">+ Add Note</button>
+      <button type="submit" class="btn btn-primary btn-lg">+ Save Note</button>
     </div>
-
   </form>
-
 </div>
