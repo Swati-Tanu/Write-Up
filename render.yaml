@@ -7,12 +7,4 @@ services:
     envVars:
       - key: NODE_ENV
         value: production
-      - key: MONGO_URI
-        value: YOUR_MONGO_DB_URI_HERE
-      - key: SESSION_SECRET
-        value: YOUR_SECRET_STRING
-      - key: GOOGLE_CLIENT_ID
-        value: YOUR_GOOGLE_CLIENT_ID
-      - key: GOOGLE_CLIENT_SECRET
-        value: YOUR_GOOGLE_CLIENT_SECRET
     plan: free
