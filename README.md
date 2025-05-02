@@ -75,12 +75,20 @@ npx nodemon app.js
 
  <div align = "center">
    <h2>Landing Page</h2>
+   
    <img width="946" alt="Landing Page" src="https://github.com/Swati-Tanu/Write-Up/assets/112818778/cb46affd-eb01-4f75-8461-d4788fb4458e">
 
-
-   <br>
+  <h2>Google Oauth</h2>
+  
+   ![image](https://github.com/user-attachments/assets/0a98171f-3f60-437b-babf-e13faf4ade58)
+   
    <h2>Dashboard Page</h2>
+   
    <img width="941" alt="Dashboard" src="https://github.com/Swati-Tanu/Write-Up/assets/112818778/b624ec4c-47ae-4f08-b782-cc2f98ff388c">
+
+  <h2>Notes Page</h2>
+
+![image](https://github.com/user-attachments/assets/161a16bd-2269-4dff-a471-51f54edc1b00)
 
  
 <div/>
